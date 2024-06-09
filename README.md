@@ -14,7 +14,7 @@ GitHub- https://github.com/webHimanshusingh<br>
 
 # Output - 3
 
-![Screenshot (69)](https://github.com/QuantumCoding123/Day-51-Eduford-Universiy-Landing-Page-Website/assets/166281221/f5a84760-deb6-41c1-a7af-36d109ea0e98)
+![Screenshot 2024-06-09 175049](https://github.com/webHimanshusingh/du-sol-website/assets/170223793/5ef4c82f-5ddc-424f-b865-ee4903045c19)
 
 # Output - 4
 
