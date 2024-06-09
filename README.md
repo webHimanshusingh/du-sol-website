@@ -4,7 +4,7 @@ LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh<br>
 
 # Output - 1
-![Screenshot (67)](https://github.com/QuantumCoding123/Day-51-Eduford-Universiy-Landing-Page-Website/assets/166281221/c53916ab-8773-4a92-ba34-28746cde33a9)
+![Screenshot 2024-06-09 175013](https://github.com/webHimanshusingh/du-sol-website/assets/170223793/389f57c0-a789-4355-82df-a137bfdf6074)
 
  
 # Output - 2
