@@ -3,6 +3,17 @@
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh<br>
 
+Creating a simple clone of a website like Delhi University School of Open Learning (SOL) involves replicating<br> 
+the basic layout and design using HTML and CSS. Below is a step-by-step explanation of how you can create a basic clone:<br>
+
+Step 1: HTML Structure<br>
+
+First, we'll set up the basic HTML structure. This will include the header, navigation menu, main content area, and footer.<br>
+
+Step 2: CSS Styling<br>
+
+Next, we'll add some CSS to style the HTML elements. This will include styles for the layout, typography, colors, and spacing.<br>
+
 # Output - 1
 ![Screenshot 2024-06-09 175013](https://github.com/webHimanshusingh/du-sol-website/assets/170223793/389f57c0-a789-4355-82df-a137bfdf6074)
 
